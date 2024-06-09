@@ -1,16 +1,5 @@
-## Hi there 👋
-hi
-<!--
-**Cromy233/Cromy233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-ok i know it
-Here are some ideas to get you started:
-okokok
-- 🔭 I’m currently working on ...  高中
-- 🌱 I’m currently learning ...  idk
-- 👯 I’m looking to collaborate on ...  idk
-- 🤔 I’m looking for help with ...  idk
-- 💬 Ask me about ...  idk
-- 📫 How to reach me: ...  bilibili or steam(?)
-- 😄 Pronouns: ...  idk
-- ⚡ Fun fact: ...  Rhythm Games
--->
+<h1>👋 Hi there!</h1>
+<h3>欢迎来到我的主页！我是<i>虚空</i>开发者晓光！</h3>
+↓↓↓ 这些是我的作品 ↓↓↓
+
+1. <font color=#FF00FF>其实是真的没有（）</font>
